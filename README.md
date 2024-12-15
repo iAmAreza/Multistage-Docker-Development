@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Project Name
 
-A brief description of your project. Explain what it does and why it is useful.
+Multistage Docker Development 
 
 
 ### 1. Clone the Repository
@@ -9,7 +9,7 @@ A brief description of your project. Explain what it does and why it is useful.
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/DevOps-Engineering-me/Multi-stage-Docker-Build.git
+git@github.com:iAmAreza/Multistage-docker-development.git
 ```
 
 
@@ -180,8 +180,6 @@ docker ps
 - **Modularity**:  
   Separates build and runtime environments, making the process more manageable.
 
-- **Better Performance**:  
-  Smaller images load faster, improving container deployment speed.
-=======
-# Multistage-Docker-Development
->>>>>>> 772a8138d83399333cd300b9dc0e73505d7a5be2
+
+
+
