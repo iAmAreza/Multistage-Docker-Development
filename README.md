@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project Name
 
 Multistage Docker Development 
