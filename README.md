@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project Name
 
 A brief description of your project. Explain what it does and why it is useful.
@@ -182,6 +182,4 @@ docker ps
 
 - **Better Performance**:  
   Smaller images load faster, improving container deployment speed.
-=======
-# Multistage-Docker-Development
->>>>>>> 772a8138d83399333cd300b9dc0e73505d7a5be2
+
