@@ -18,7 +18,8 @@ git@github.com:iAmAreza/Multistage-docker-development.git
 Go to the folder where the repository was cloned:
 
 ```bash
-cd Multi-stage-Docker-Build
+cd Multistage-Docker-development
+cd Multistage-Docker-development
 ```
 
 ### 3. Build the Docker Image
